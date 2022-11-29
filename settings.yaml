@@ -1991,12 +1991,12 @@ others:
       name: 回到顶部图片
       label: 回到顶部图片
       type: attachment
-      default: "https://cdn.moyu233.top/blog/scroll.png"
+      default: "https://takagi-api.com/directlink/1/cdn/1.0.8/img/Sakura/images/scroll.png"
     footer_logo:
       name: footer_logo
       label: 页脚 Logo
       type: attachment
-      default: "https://cdn.moyu233.top/blog/sakura.svg"
+      default: "https://takagi-api.com/directlink/1/cdn/1.0.8/img/Sakura/images/sakura.svg"
     footer_case_number:
       name: footer_case_number
       label: ICP 备案信息
