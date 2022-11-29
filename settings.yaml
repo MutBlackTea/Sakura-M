@@ -2131,8 +2131,8 @@ more:
       default: love
       options:
         - value: love
-          label: 爱心样式
+          label: love
         - value: fireworks
-          label: 烟花
+          label: fireworks
         - value: random
-          label: 随机字符
+          label: random
