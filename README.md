@@ -1,5 +1,5 @@
 </p>
-<h1 align="center">樱花-M|Sakura-M</h1>
+<h1 align="center">Sakura-M</h1>
 <h4 align="center">🎀基于<a href="https://github.com/LIlGG/halo-theme-sakura" target="_blank">Sakura</a>的简单魔改补丁🎀</h4>
 <p align="center">
 
