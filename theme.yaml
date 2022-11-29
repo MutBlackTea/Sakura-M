@@ -1,0 +1,11 @@
+id: LIlGG_Sakura
+name: Sakura - M
+author:
+  name: LIlGG
+  website: https://lixingyong.com
+description: Halo 版本的樱花🌸主题魔改版！本魔改版跟随原主题版本，仅更改名字和介绍以做区分，不对其他版权信息做修改。不会出现任何额外版权信息！
+logo:
+website: https://github.com/LIlGG/halo-theme-sakura
+repo: https://github.com/LIlGG/halo-theme-sakura
+version: 1.3.4
+require: 1.5.0
