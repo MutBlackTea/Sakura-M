@@ -25,12 +25,6 @@
 	}
 	/* ]]> */
 </script>
-<#-- 点击特效 -->
-<#if settings.click_css_if!false >
-	<script type="text/javascript" src="${theme_base!}/source/js/sakuraM/${settings.click_css}.js"></script>
-</#if>
-
-
 </div><!-- #page Pjax container-->
 <footer id="colophon" class="site-footer" role="contentinfo">
 	<div class="site-info">
