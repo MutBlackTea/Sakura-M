@@ -56,3 +56,4 @@
 <br/>在 主题设置-其他 中可自行配置<br/>
 ![image](https://user-images.githubusercontent.com/97434905/204443999-e753af30-c54d-4268-a53b-d1d7442a188c.png)
 ### 3. 先咕咕，以后写
+  详细见:https://moyu233.top/archives/sakuram
